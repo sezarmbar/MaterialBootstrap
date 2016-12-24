@@ -1,0 +1,22 @@
+.p-container {
+height: 100% !important;
+width: 100% !important;
+position: fixed !important;
+}
+
+.p-sidenav-content {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+}
+.p-content{
+  height: 100% !important;
+width: 100% !important;
+position: fixed !important;
+}
+.p-sidenav {
+  padding: 20px;
+}
+
+
